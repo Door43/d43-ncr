@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ncr:home|Door43 (ncr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ncr|d43-ncr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ncr/archive/master.zip|d43-ncr.zip]]
+
+**Recent Changes**
+{{changes>ns = ncr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ncr|Ethnologue data]]
+
